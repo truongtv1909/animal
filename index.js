@@ -13,6 +13,3 @@ try{
 }
 
 tiger1.eat(cat1);
-
-// tiger1.say()
-// console.log(tiger1);
