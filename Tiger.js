@@ -1,4 +1,4 @@
-var chak = require('chalk');
+var chak = require('chalk'); // impro module
 function Tiger(name){
    this.stomach = [] ;
    this.name = name;
