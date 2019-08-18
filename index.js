@@ -10,4 +10,4 @@ var tiger1 = new Tiger('red tiger');
 tiger1.eat(cat1);
 
 // tiger1.say()
-console.log(tiger1);
+// console.log(tiger1);
