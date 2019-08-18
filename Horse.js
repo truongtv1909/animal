@@ -1,3 +1,3 @@
-function Horse(n){
-    this.name = n;
+function Horse(name){
+    this.name = name;
 }
